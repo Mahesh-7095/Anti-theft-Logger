@@ -1,5 +1,7 @@
 {
-  "email": "your_email@gmail.com",
-  "recipient": "your_email@gmail.com",
-  "app_password": "dtbm ulem idkc fdpf"
+  "email": "palavalimaheshkumarreddy7989@gmail.com",
+  "password": "fqlauzxhhggcqgtj",
+  "to": "palavalimaheshkumarreddy7989@gmail.com",
+  "smtp_server": "smtp.gmail.com",
+  "smtp_port": 465
 }
